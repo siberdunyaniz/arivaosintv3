@@ -27,8 +27,8 @@
 ## Installation
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/siberdunyaniz/arivaosintv4.git
-   cd arivaosintv4
+   git clone https://github.com/siberdunyaniz/arivaosintv3.git
+   cd arivaosintv3
    ```
 2. **Install Dependencies**:
    ```bash
@@ -38,13 +38,13 @@
 
 3. **Run the Tool**:
    ```bash
-   python arivaosintv4.py
+   python arivaosintv3.py
    ```
 
 ## Usage
 1. Launch the tool:
    ```bash
-   python arivaosintv4.py
+   python arivaosintv3.y
    ```
 2. Select an option from the menu:
    - `[1]` Phone Number Lookup: Enter a phone number (e.g., `+1234567890`).
